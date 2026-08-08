@@ -103,5 +103,3 @@ while True:
 
     else:
         print("only between 1 & 5!")
-
-# 98 from 100 ! 
